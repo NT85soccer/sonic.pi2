@@ -1,0 +1,623 @@
+# Play the main melody
+use_synth :saw
+
+live_loop :beat do
+  play :c2
+  sleep 0.5
+  play :e2
+  sleep 0.5
+  play :g2
+  sleep 0.5
+  play :b2
+  sleep 0.5
+  play :c3
+  sleep 0.5
+  play :b2
+  sleep 0.5
+  play :e2
+  sleep 0.5
+  play :a1
+  sleep 0.5
+end
+# First line
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+# Suspenseful notes
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+
+play :d4, release: 0.25
+sleep 0.25
+play :e4, release: 0.25
+sleep 0.25
+play :g4, release: 0.5
+sleep 0.5
+
+# Repeat the main melody
+play :e4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :e5, release: 0.5
+sleep 0.5
+play :b4, release: 0.5
+sleep 0.5
+play :g4, release: 0.5
+sleep 0.5
